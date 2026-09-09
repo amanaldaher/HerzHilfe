@@ -13,7 +13,7 @@ This project was developed by architecting clean, maintainable Front-End code, s
 ## 🚀 Live Demo
 
 Check out the live website here:  
-👉 **[View HerzHilfe Live](https://amanaldaher.github.io/HerzHilfe/)** *(replace with your exact repo name if different)*
+👉 **[View HerzHilfe Live](https://amanaldaher.github.io/HerzHilfe/)**
 
 ---
 
