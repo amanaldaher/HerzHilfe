@@ -48,7 +48,7 @@ Check out the live website here:
 ```
 <hr>
 
-##💻 How to Run Locally
+## 💻 How to Run Locally
 Clone the repository:
 
 Bash
@@ -66,7 +66,7 @@ Or open the folder in VS Code and run it using the Live Server extension.
 
 <hr>
 
-##📬 Connect With Me
+## 📬 Connect With Me
 Email: aman.aldaher.4@gmail.com
 
 LinkedIn: Aman Aldaher
